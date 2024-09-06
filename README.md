@@ -1,7 +1,6 @@
+### Olá! eu sou o Davi Carvalho  🖐️
 
-### Olá! eu sou o Davi Carvalho 🖐️
-
-
+  [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-carvalho-a47a04170/)
 
 ## Tecnologias que uso no meu dia.
 
